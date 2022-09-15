@@ -11,5 +11,6 @@ hello atguigu
 hello atguigu
 hello atguigu
 hello atguigu
+<<<<<<< HEAD
 hello atguigu master test
-hello atguigu
+hello atguigu hot -fix test
